@@ -4,7 +4,7 @@
 🤝 I’m looking to collaborate on Open-source projects that need full stack development expertise or AI Integration in their website.<br> 
 🌱 I’m currently learning Advanced AI techniques for embedding-based search and information retrieval, Optimizing Dockerized workflows for full stack development.<br> 
 💬 Ask me about Full stack development with Next.js, TypeScript, and Firebase etc.. or How to integrate AI features into web applications and Build community-driven platforms.<br> 
-⚡ Fun fact: I love combining tech and community-building to create projects that have real-world social impact!
+⚡ Fun fact: I love combining tech and community-building to create projects that have real-world social impact!<br><br>
 </div>
 
 ![Github Banner](https://github.com/user-attachments/assets/74181128-d6ea-4594-b618-96c1c6718da8)
