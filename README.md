@@ -1,5 +1,5 @@
 # 💫 About Me:
-<div align="justify">
+<div>
 👨‍💻 I’m currently working on building full stack applications using Next.js, TypeScript, Supabase, Firebase, Gemini, Llama3 etc..<br> 
 🤝 I’m looking to collaborate on Open-source projects that need full stack development expertise or AI Integration in their website.<br> 
 🌱 I’m currently learning Advanced AI techniques for embedding-based search and information retrieval, Optimizing Dockerized workflows for full stack development.<br> 
