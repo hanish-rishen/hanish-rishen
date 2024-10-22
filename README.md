@@ -42,6 +42,11 @@
 </div>
 
 ---
+
+[![An image of @hanishrishen's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hanishrishen)](https://holopin.io/@hanishrishen)
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=hanish-rishen&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
