@@ -8,7 +8,6 @@
 </div>
 
 ![Github Banner](https://github.com/user-attachments/assets/74181128-d6ea-4594-b618-96c1c6718da8)
-
 [![An image of @hanishrishen's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hanishrishen)](https://holopin.io/@hanishrishen)
 
 ## 🌐 Socials
