@@ -9,6 +9,8 @@
 
 ![Github Banner](https://github.com/user-attachments/assets/74181128-d6ea-4594-b618-96c1c6718da8)
 
+[![An image of @hanishrishen's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hanishrishen)](https://holopin.io/@hanishrishen)
+
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hanish-rishen-331072248) 
 
@@ -40,12 +42,6 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
 </div>
-
----
-
-[![An image of @hanishrishen's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hanishrishen)](https://holopin.io/@hanishrishen)
-
----
 
 [![](https://visitcount.itsvg.in/api?id=hanish-rishen&icon=0&color=0)](https://visitcount.itsvg.in)
 
