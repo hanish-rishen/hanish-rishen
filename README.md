@@ -15,11 +15,8 @@
 - ⚡ Fun fact: **I love creating tech projects with real-world social impact!**
 
 <br clear="right">
-<br>
 
   [![An image of @hanishrishen's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hanishrishen)](https://holopin.io/@hanishrishen)
-
-<br>
 
 <div align="center">
   <h2>⚡ My Tech Universe ⚡</h2>
@@ -107,5 +104,5 @@
 
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="85%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
 </div>
