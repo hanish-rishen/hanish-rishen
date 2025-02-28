@@ -77,7 +77,10 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hanish-rishen&theme=react-dark&hide_border=true&bg_color=0D1117&line=00BFFF&point=FD8142" width="98%" alt="Activity Graph">
+  <a href="https://github.com/hanish-rishen">
+    <img src="https://github-readme-stats.vercel.app/api?username=hanish-rishen&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF&hide=contribs" width="49%" />
+  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hanish-rishen&theme=react-dark&hide_border=true&bg_color=0D1117&line=00BFFF&point=FD8142" width="49%" alt="Activity Graph">
 </div>
 
 <br>
@@ -100,8 +103,6 @@
     </tr>
   </table>
 </div>
-
-
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
