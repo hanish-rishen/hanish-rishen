@@ -19,7 +19,6 @@
   [![An image of @hanishrishen's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hanishrishen)](https://holopin.io/@hanishrishen)
 
 <div align="center">
-  <h2>⚡ My Tech Universe ⚡</h2>
   <div>
     <a href="https://nextjs.org/">
       <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white&labelColor=black">
