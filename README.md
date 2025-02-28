@@ -1,44 +1,111 @@
-# 💫 About Me
-<div>
-👨‍💻 I’m currently working on building full stack applications using Next.js, TypeScript, Supabase, Firebase, Gemini, Llama3 etc..<br> 
-🤝 I’m looking to collaborate on Open-source projects that need full stack development expertise or AI Integration in their website.<br> 
-🌱 I’m currently learning Advanced AI techniques for embedding-based search and information retrieval, Optimizing Dockerized workflows for full stack development.<br> 
-💬 Ask me about Full stack development with Next.js, TypeScript, and Firebase etc.. or How to integrate AI features into web applications and Build community-driven platforms.<br> 
-⚡ Fun fact: I love combining tech and community-building to create projects that have real-world social impact!<br><br>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/74181128-d6ea-4594-b618-96c1c6718da8" alt="Banner" width="100%">
 </div>
 
-![Github Banner](https://github.com/user-attachments/assets/74181128-d6ea-4594-b618-96c1c6718da8)
-[![An image of @hanishrishen's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hanishrishen)](https://holopin.io/@hanishrishen)
+<br>
 
-# 💻 Tech Stack
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%230D4F8B.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Sanity](https://img.shields.io/badge/sanity-FA4A5B?style=for-the-badge&logo=sanity&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+<img align="right" height="200" width="280" alt="Chill Coding Guy" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 
+> I build modern web applications with a focus on performance, user experience, and AI capabilities.
 
-# 🔍 Most Used Languages
+- 🔭 Currently building **full stack applications with Next.js & TypeScript**
+- 🧠 Working with **AI integration, Supabase, Firebase & Gemini**
+- 🌱 Learning **embedding-based search & Dockerized workflows**
+- 🤝 Open to **collaborate on open-source projects**
+- ⚡ Fun fact: **I love creating tech projects with real-world social impact!**
+
+<br clear="right">
+<br>
+
+  [![An image of @hanishrishen's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hanishrishen)](https://holopin.io/@hanishrishen)
+
+<br>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanish-rishen&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</div>
-
-# 📊 GitHub Stats
-<div align="center">
-  <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=hanish-rishen&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanish-rishen&theme=dark&hide_border=false" />
+  <h2>⚡ My Tech Universe ⚡</h2>
+  <div>
+    <a href="https://nextjs.org/">
+      <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white&labelColor=black">
+    </a>
+    <a href="https://reactjs.org/">
+      <img src="https://img.shields.io/badge/react-%230D4F8B.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+    </a>
+    <a href="https://www.typescriptlang.org/">
+      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+      <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
+    </a>
+    <a href="https://tailwindcss.com/">
+      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+    </a>
+    <a href="https://firebase.google.com/">
+      <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
+    </a>
+    <a href="https://supabase.com/">
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
+    </a>
+    <a href="https://nodejs.org/">
+      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+    </a>
+    <a href="https://www.mongodb.com/">
+      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+    </a>
+    <a href="https://www.mysql.com/">
+      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+    </a>
+    <a href="https://www.python.org/">
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+    </a>
+    <a href="https://www.docker.com/">
+      <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
+    </a>
+    <a href="https://vercel.com/">
+      <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
+    </a>
   </div>
 </div>
 
-### 🔝 Top Contributed Repo
+<br>
+
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=hanish-rishen&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <a href="https://github.com/hanish-rishen">
+    <img src="https://github-stats-alpha.vercel.app/api?username=hanish-rishen&cc=0D1117&tc=00BFFF&ic=fff&bc=0D1117" width="49%" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanish-rishen&theme=tokyonight&hide_border=true&background=0D1117&stroke=00BFFF&ring=00BFFF&fire=FD8142" width="49%" />
+  </a>
 </div>
 
----
+<br>
 
-### ✍️ My Motivation
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hanish-rishen&theme=react-dark&hide_border=true&bg_color=0D1117&line=00BFFF&point=FD8142" width="98%" alt="Activity Graph">
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=hanish-rishen&icon=0&color=0)](https://visitcount.itsvg.in)
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hanish-rishen&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Profile Trophy" />
+</div>
+
+<br>
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="48%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanish-rishen&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF" alt="Top Languages" width="100%">
+      </td>
+      <td width="52%">
+        <img src="https://github-contributor-stats.vercel.app/api?username=hanish-rishen&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=00BFFF" width="100%" alt="Top Contributed Repos" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="85%" />
+</div>
