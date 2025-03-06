@@ -1,22 +1,17 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/74181128-d6ea-4594-b618-96c1c6718da8" alt="Banner" width="100%">
 </div>
-
 <br>
-
-<img align="right" height="200" width="280" alt="Chill Coding Guy" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 
 > I build modern web applications with a focus on performance, user experience, and AI capabilities.
 
-- 🔭 Currently building **full stack applications with Next.js & TypeScript**
-- 🧠 Working with **AI integration, Supabase, Firebase & Gemini**
-- 🌱 Learning **embedding-based search & Dockerized workflows**
-- 🤝 Open to **collaborate on open-source projects**
-- ⚡ Fun fact: **I love creating tech projects with real-world social impact!**
+- 🔭 Currently building **full stack applications with Next.js & TypeScript**, leveraging modern frameworks to create scalable and maintainable web solutions that deliver exceptional user experiences.
+- 🧠 Working with **AI integration, Supabase, Firebase & Gemini** to develop intelligent applications that utilize machine learning capabilities while maintaining robust backend infrastructure.
+- 🌱 Learning **embedding-based search & Dockerized workflows** to enhance application search functionality with semantic understanding and streamline deployment processes across different environments.
+- 🤝 Open to **collaborate on open-source projects** that solve real problems and contribute to the developer community. Always interested in connecting with other passionate developers.
+- ⚡ Fun fact: **I love creating tech projects with real-world social impact!** Passionate about leveraging technology to create solutions that address meaningful social challenges and improve people's lives.
 
-<br clear="right">
-
-  [![An image of @hanishrishen's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hanishrishen)](https://holopin.io/@hanishrishen)
+[![An image of @hanishrishen's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hanishrishen)](https://holopin.io/@hanishrishen)
 
 <div align="center">
   <div>
